@@ -3,6 +3,8 @@
 
 using namespace std;
 
+#hello world
+
 // To heapify a subtree rooted with node i which is 
 // an index in arr[]. n is size of heap 
 void heapify(int arr[], int n, int i)
@@ -65,4 +67,7 @@ int main()
 
 	cout << "Sorted array is \n";
 	printArray(arr, n);
+	
+	system("pause");
+	return 0;
 }
