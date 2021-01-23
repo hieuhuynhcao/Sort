@@ -3,7 +3,7 @@
 
 using namespace std;
 
-#hello world
+//hello world
 
 // To heapify a subtree rooted with node i which is 
 // an index in arr[]. n is size of heap 
